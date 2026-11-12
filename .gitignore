@@ -1,0 +1,13 @@
+#Environment Configurations
+.env
+.env.*
+
+#Virtual Environment 
+.venv/
+
+#VS Code configurations
+.vscode/
+
+#Bytecode compilations
+__pycache__/
+*.pyc 
